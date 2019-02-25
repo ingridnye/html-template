@@ -1,2 +1,24 @@
 /* CSS styles */
 
+
+h1 { 
+  color: purple;
+  font-family: helvetica;
+text-align: center;}
+h3 { color: green;
+background-color: orange;}
+ul { color: grey;
+background-color: pink;}
+table { 
+  border-collapse: collapse;
+  color: red;
+  border-style: solid;
+  border-width: 2pt;
+}
+img {
+  width: 30%;
+}
+  p.intro {font-family: helvetica;    
+  }
+
+
